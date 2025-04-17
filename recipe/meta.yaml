@@ -1,4 +1,4 @@
-{% set version = "3.4.11" %}
+{% set version = "3.5.0" %}
 
 package:
   name: dictionaryutils
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/d/dictionaryutils/dictionaryutils-{{ version }}.tar.gz
-  sha256: a63ae34b4c0130cd94e4ca685cbb18155c225f9bface32ed1d503393d0dd39cf
+  sha256: 680118a8fe24f5f512169c85c99334b9a0d9e830d73a70db9b3f55903cab11e6
 
 build:
   number: 0
